@@ -1,0 +1,17 @@
+# Cl-Hangman - Youtube tutorial game
+
+## Usage
+
+## Installation
+
+## Author
+
+* Antti
+
+## Copyright
+
+Copyright (c) 2025 Antti
+
+## License
+
+Licensed under the GPL-2.0-or-later License.
