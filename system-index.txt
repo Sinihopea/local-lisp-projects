@@ -1,0 +1,5 @@
+cl-rps/cl-rps.asd
+cl-hangman/cl-hangman.asd
+cl-myproject/cl-myproject.asd
+cl-tic-tac-toe/cl-tic-tac-toe.asd
+cl-tic-tac-too/cl-tic-tac-too.asd
